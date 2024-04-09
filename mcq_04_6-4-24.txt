@@ -1,0 +1,35 @@
+1. Which of these class is superclass of String and StringBuffer class?
+a) java.util
+b) java.lang
+c) ArrayList
+d) None of the mentioned
+    //b
+
+
+2. Which of this method of class String is used to obtain a length of String object?
+a) get()
+b) Sizeof()
+c) lengthof()
+d) length()
+    // d
+
+3.Which of these is an incorrect statement?
+a) String objects are immutable, they cannot be changed
+b) String object can point to some other reference of String variable
+c) StringBuffer class is used to store string in a buffer for later use
+d) None of the mentioned
+     //c
+
+4.Which of these method of String class can be used to test to strings for equality?
+a) isequal()
+b) isequals()
+c) equal()
+d) equals()
+   //d
+
+5. Which of the following statements are incorrect?
+a) String is a class
+b) Strings in java are mutable
+c) Every string is an object of class String
+d) Java defines a peer class of String, called StringBuffer, which allows string to be altered
+    //b
