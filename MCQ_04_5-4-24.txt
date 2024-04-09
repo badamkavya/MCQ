@@ -1,0 +1,34 @@
+1. What is an Array in Java? 
+a) A collection of elements with different types 
+b) A collection of elements with the same type 
+c) A resizable data structure 
+d) A container for storing key-value pairs 
+ANS:B
+
+2.How do you declare an array in Java? 
+a) int[]= arr; 
+b) int arr[]; 
+c) int arr; 
+d) Array<int> arr; 
+ANS:B
+
+3.What is the index range for the elements of an array in Java? 
+a) 0 to length - 1
+b) 1 to length 
+c) -1 to length - 1 
+d) 0 to length 
+ANS:A
+
+4.How do you access an element in an array in Java? 
+a) By using the element's value 
+b) By using the element's index 
+c) By using the element's key 
+d) By using the element's label
+ANS:B
+
+5.What happens if you try to access an array element with an index that is out of bounds? 
+a) A runtime exception is thrown 
+b) The program terminates abruptly 
+c) The element value is set to null 
+d) The element value is set to 0
+ANS:A
